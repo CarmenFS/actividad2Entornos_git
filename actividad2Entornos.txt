@@ -1,2 +1,3 @@
 Este es el primer contacto con Git. 
 Hemos creado este fichero para la actividad 2 que se basa en el aprendizaje de Git.
+He creado un segundo commit para señalar la modificación del archivo
